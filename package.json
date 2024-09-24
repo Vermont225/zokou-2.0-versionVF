@@ -1,5 +1,5 @@
 {
-  "name": "zokou-2.0",
+  "name": "VERMONT-GIT01",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -14,13 +14,13 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Zokou",
+    "Vermont",
     "whatsapp",
     "whatsapp-bot",
     "Fedora",
-    "FaouzKK"
+    "Vermont"
   ],
-  "author": "Fedora && FaouzKK",
+  "author": "Bby && Vermont",
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
